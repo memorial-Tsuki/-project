@@ -1,0 +1,12 @@
+{
+    "include": [
+        "."
+    ],
+    "exclude": [
+        "**/__pycache__"
+    ],
+    "venvPath": "../..",
+    "venv": ".venv-backtrader",
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true
+}

@@ -1,0 +1,6 @@
+# 建议使用 Python 3.11。
+backtrader==1.9.78.123
+numpy==2.4.6
+pandas==3.0.6
+matplotlib==3.11.2
+PyQt5==5.15.11

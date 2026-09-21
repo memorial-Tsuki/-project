@@ -1,0 +1,10 @@
+# Alphalens 为旧项目，建议使用 Python 3.8。
+alphalens==0.4.0
+numpy==1.24.4
+pandas==1.5.3
+scipy==1.10.1
+matplotlib==3.7.5
+tushare==1.4.29
+tqdm>=4.66,<5
+PyQt5==5.15.11
+python-dotenv>=1.0,<2

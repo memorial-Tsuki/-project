@@ -1,0 +1,2 @@
+﻿test_start,test_end,test_observations,daily_rank_ic_mean,daily_rank_ic_std,daily_icir,rank_ic_positive_ratio,top_group_mean_5d,bottom_group_mean_5d,long_short_mean_5d
+2025-01-01,2025-12-31,70821,0.004854840020586844,0.10257192878902822,0.04733107856996982,0.5168067226890757,0.0129410297728826,0.005534239232958346,0.0074067905399242545

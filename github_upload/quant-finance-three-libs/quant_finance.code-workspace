@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "name": "01 Backtrader",
+            "path": "labs/backtrader"
+        },
+        {
+            "name": "02 Alphalens",
+            "path": "labs/alphalens"
+        },
+        {
+            "name": "03 Qlib",
+            "path": "labs/qlib"
+        },
+        {
+            "name": "项目说明和结果",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.startupEditor": "readme",
+        "python.terminal.activateEnvironment": true
+    }
+}

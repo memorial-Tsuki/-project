@@ -1,0 +1,2 @@
+﻿initial_cash,final_value,total_return,annualized_return,annualized_volatility,sharpe_ratio_rf0,max_drawdown,failed_orders,stocks_per_rebalance,rebalance_every_days,commission_rate
+1000000.0,1154695.5772160012,0.15469557721600125,0.03035834433097695,0.1508029389753515,0.2735419451920134,0.21730470951902622,0,20,20,0.0003
